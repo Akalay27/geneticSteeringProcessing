@@ -1,3 +1,7 @@
+//Copyright © 2019 Adam Kalayjian
+
+//geneticSteering
+
 class Rocket {
  float[] solution; 
  double fitness;
