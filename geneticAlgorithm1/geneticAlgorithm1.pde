@@ -1,10 +1,9 @@
-'''
 
-Copyright © 2019 Adam Kalayjian
 
-geneticSteering
+//Copyright © 2019 Adam Kalayjian
 
-'''
+//geneticSteering
+
 int solutionLength = 100;
 int populationSize = 800;
 
